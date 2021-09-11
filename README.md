@@ -15,15 +15,11 @@ Com o java instalado, siga os passos a seguir:
 
 A aplicação backend estará executando na URI [http://localhost:8080/](http://localhost:8080/produtos)
 
-![Captura de Tela 2021-09-11 às 17.02.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed604c55-0e62-4bdd-92a3-b25a4396573d/Captura_de_Tela_2021-09-11_as_17.02.02.png)
-
 ---
 
 ## Database:
 
 O database utilizado é o H2 para testes (Database em memoria), e pode ser acessado pelo browser em [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
-
-![Captura de Tela 2021-09-11 às 17.04.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b6b5194f-aa4c-4dca-b8c6-6564e588aba4/Captura_de_Tela_2021-09-11_as_17.04.57.png)
 
 Informacoes de login: 
 
